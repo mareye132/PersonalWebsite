@@ -1,0 +1,8 @@
+st.markdown(
+    f"""
+    <style>
+    @import url('assets/css/styles.css');
+    </style>
+    """,
+    unsafe_allow_html=True
+)
